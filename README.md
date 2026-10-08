@@ -112,7 +112,7 @@ HitPlay 采用分层发布方式：猫源、PY 源等来源接入能力可按公
 
 仓库的 Release 页面提供 macOS 与 iOS 无签名测试包。两者均未签名、未公证：iOS IPA 需要测试者自行签名后安装；macOS 首次打开可能受到 Gatekeeper 限制。请查看 Release 说明与 SHA-256 校验文件。
 
-[下载 HitPlay 0.4.0 (24) 无签名测试包](https://github.com/chchok/HitPlay/releases/tag/test-0.4.0-24-unsigned)
+[macOS Apple Silicon DMG](https://github.com/chchok/HitPlay/raw/refs/heads/main/test-builds/HitPlay-macOS-0.4.0-24-arm64-unsigned.dmg) · [iOS IPA](https://github.com/chchok/HitPlay/raw/refs/heads/main/test-builds/HitPlay-iOS-0.4.0-24-unsigned.ipa) · [SHA-256 校验文件](https://github.com/chchok/HitPlay/raw/refs/heads/main/test-builds/SHA256SUMS-unsigned.txt)
 
 ## 贡献者
 

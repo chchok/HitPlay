@@ -1,0 +1,2 @@
+f6df5fe3ed474a718bb55dcae149dccad7647575a14267be7be4e441a24a9bd5  HitPlay-macOS-0.4.0-24-arm64-unsigned.dmg
+a4abea3d30edb4b5643ff412108d964c8941183b5132467a852b15e380bf79bc  HitPlay-iOS-0.4.0-24-unsigned.ipa
